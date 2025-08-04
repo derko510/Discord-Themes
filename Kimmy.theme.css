@@ -1,13 +1,8 @@
-/**
-  * @name Kimmy Theme
-  * @author Derko
-*/
-
 :root {
   --darkplus-bg: #212121;
   --darkplus-bg2: #302f2f;
-  --darkplus-sec: #bb86fc;
-  --darkplus-links: #cdaef3;
+  --darkplus-sec: #B39EB5;
+  --darkplus-links: #FFCCCC;
   --darkplus-home-icon: url(https://i.imgur.com/uzHW8Dc.png);
   --watermark-filter-invert: 0%;
   --watermark-filter-sepia: 50%;
@@ -867,9 +862,9 @@ button[aria-label="Send a gift"] {
   margin-left: 8px;
   color: var(--darkplus-sec);
   font-family: 'Spectral';
-  font-size: 18px;
-  font-weight: 600;
-  content: 'Discord by Derko';
+  font-size: 24px;
+  font-weight: 500;
+  content: 'Kimmy Only';
 }
 
 .channelName-3KPsGw,
@@ -1649,3 +1644,8 @@ button.button__67645 .lottieIcon__5eb9b svg path {
   color: var(--darkplus-links);
 }
 
+/**
+  * @name Kimmy Theme
+  * @author Derko
+  * @description MADE FOR MY HOTTIE
+*/
