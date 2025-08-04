@@ -865,7 +865,7 @@ button[aria-label="Send a gift"] {
   font-family: 'Segoe UI', Arial, sans-serif;
   font-size: 12px;
   font-weight: 600;
-  content: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20xmlns='http://www.w3.org/2000/svg'%20width='400'%20height='25'%20viewBox='0%200%20400%2025'%3E%3Cdefs%3E%3Cpattern%20id='p'%20patternUnits='userSpaceOnUse'%20width='16'%20height='25'%3E%3Crect%20width='8'%20height='25'%20fill='%23111'%20fill-opacity='0.4'/%3E%3C/pattern%3E%3Cfilter%20id='f'%20x='-50%25'%20y='-50%25'%20width='200%25'%20height='200%25'%3E%3CfeDropShadow%20dx='0'%20dy='0'%20stdDeviation='2'%20flood-color='%23000'%20flood-opacity='0.5'/%3E%3C/filter%3E%3C/defs%3E%3C!-- stripes overlay on transparent --%3E%3Crect%20width='100%25'%20height='100%25'%20fill='url(%23p)'/%3E%3Ctext%20x='8'%20y='18'%20fill='%232f5dbe'%20font-family='Spectral,serif'%20font-size='16'%20filter='url(%23f)'%3EDiscord%20by%20Derko%3C/text%3E%3C/svg%3E");
+  content: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='50' viewBox='0%200%20400%2050'><defs><style>@import%20url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;700');text{font-family:'Spectral',serif;font-size:32px;fill:%232f5dbe;}</style></defs><text x='8' y='36'>Discord%20by%20Derko</text></svg>");
 }
 
 .channelName-3KPsGw,
