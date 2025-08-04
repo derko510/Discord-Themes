@@ -865,7 +865,7 @@ button[aria-label="Send a gift"] {
   font-family: 'Segoe UI', Arial, sans-serif;
   font-size: 12px;
   font-weight: 600;
-  content: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='400' height='50' viewBox='0%200%20400%2050'><defs><style>@import%20url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;700');text{font-family:'Spectral',serif;font-size:32px;fill:%232f5dbe;}</style></defs><text x='8' y='36'>Discord%20by%20Derko</text></svg>");
+  content: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='350' height='45' viewBox='0%200%20400%2050'><defs><style>@import%20url('https://fonts.googleapis.com/css2?family=Spectral:wght@400;700');text{font-family:'Spectral',serif;font-size:32px;fill:%232f5dbe;}</style></defs><text x='8' y='36'>Discord%20by%20Derko</text></svg");
 }
 
 .channelName-3KPsGw,
